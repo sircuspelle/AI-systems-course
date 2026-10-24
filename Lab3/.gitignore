@@ -1,9 +1,3 @@
-./.tmp_extracted_images/
-/.tmp_extracted_images/
-/.tmp_extracted_images
-.tmp_extracted_images/
-.tmp_extracted_images
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
